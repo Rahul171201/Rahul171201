@@ -49,6 +49,6 @@
   <img alt="Express JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
-<h3>How to reach out? Check out my social medial handles</h3>
+<h3>Wanna to reach out? Check out my social medial handles</h3>
 <p><a href="https://github.com/Rahul171201" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/rahul-roy-22ab42196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>

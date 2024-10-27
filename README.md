@@ -5,10 +5,10 @@
 
 <h3>Wonder what I do? Let's see 🤔🤔</h3>
 <ul>
-  <li>I’m currently working 🛠 on parallel algorithms.</li>
-  <li>I love to code ⌨ and make things that can have a positive impact on the world 🌍.</li>
-  <li>Developing my character each day 🌙.</li>
-  <li>I enjoy playing sports⚽🏏. Nothing fills me with more joy than the thought of keeping myself fit😁.</li>
+  <li>I’m currently working 🛠 on a personalized life tracker</li>
+  <li>I love to code ⌨ and make things that can have a positive impact on my overall personal growth 🌍</li>
+  <li>Developing my character each day 🌙</li>
+  <li>I enjoy playing sports⚽🏏</li>
   <li>An artist by paint🎨, A music lover 🎵and a habitual gamer 🎮.</li>
   <li>Email : rahulroydps@gmail.com</li>
 </ul>

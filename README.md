@@ -23,7 +23,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -35,10 +34,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-lightblue?style=flat-square&logo=java&logoColor=red" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Apache Hadoop" src="https://camo.githubusercontent.com/16efe1b4f1ef92da85f10d593195e9b9eb0d65976a6f52206f36a5e9983c9d51/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170616368652b4861646f6f7026636f6c6f723d323232323232266c6f676f3d4170616368652b4861646f6f70266c6f676f436f6c6f723d363643434646266c6162656c3d" />
-  <img alt="Apache Flink" src="https://camo.githubusercontent.com/dea4b1f8e9a1185b4b87c3565dbc8cbd7c744e4546c57f46c430fbb092183376/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170616368652b466c696e6b26636f6c6f723d453635323646266c6f676f3d4170616368652b466c696e6b266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-  <img alt="Apache Maven" src="https://camo.githubusercontent.com/7d7142d46cf2970544b579fa8dda4fe9f791befd33420e0c79e9a2ce70043cd7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170616368652b4d6176656e26636f6c6f723d433731413336266c6f676f3d4170616368652b4d6176656e266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-  <img alt="Apache Spark" src="https://camo.githubusercontent.com/606a49b3bcbd1e57b1859806f8588003fe521ca32980d5c041a377e88f9c28f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170616368652b537061726b26636f6c6f723d453235413143266c6f676f3d4170616368652b537061726b266c6f676f436f6c6f723d464646464646266c6162656c3d" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-yellow?style=flat-square&logo=kubernetes&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
